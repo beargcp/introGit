@@ -2,3 +2,4 @@ lesson for git
 基本的なことを学習すんぞ
 ・Git addふにゃふにゃ
 aaaa
+Gistatus
